@@ -1,0 +1,2 @@
+# mydns
+Custom DNS server
